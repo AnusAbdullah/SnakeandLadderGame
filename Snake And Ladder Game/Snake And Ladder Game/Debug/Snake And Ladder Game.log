@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Snake And Ladder Game.cpp
+A:\University\Assignments\1st Semester\PF\20F-0244&20F-0267_Snake And Ladder Game\20F-0244&20F-0267_Snake And Ladder Game\Snake And Ladder Game\Snake And Ladder Game.cpp(203,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+A:\University\Assignments\1st Semester\PF\20F-0244&20F-0267_Snake And Ladder Game\20F-0244&20F-0267_Snake And Ladder Game\Snake And Ladder Game\Snake And Ladder Game.cpp(816): warning C4715: 'reward': not all control paths return a value
+  Snake And Ladder Game.vcxproj -> A:\University\Assignments\1st Semester\PF\20F-0244&20F-0267_Snake And Ladder Game\20F-0244&20F-0267_Snake And Ladder Game\Debug\Snake And Ladder Game.exe
